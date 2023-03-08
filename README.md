@@ -13,9 +13,10 @@
 
 ## （2）结果展示
 
-![dog](.\dog.jpg)
+![dog](./dog.jpg)
 
-![result_show](.\result_show.jpg)
+
+![result_show](./result_show.jpg)
 
 ## (3) 性能对比（推理时间）
 
