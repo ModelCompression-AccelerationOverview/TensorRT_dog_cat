@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\Program Files\TensorRT-8.5.1.7\include\NvInfer.h(6102,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\wcp\project\vs2019\TensorRt_catdog\Cat_dog\main.cpp(107,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const char *”
+D:\wcp\project\vs2019\TensorRt_catdog\Cat_dog\main.cpp(107,16): warning C4313: “printf”: 格式字符串中的“%d”与“const char *”类型的参数 1 冲突
+D:\wcp\project\vs2019\TensorRt_catdog\Cat_dog\main.cpp(150,42): warning C4305: “初始化”: 从“double”到“float”截断
+D:\wcp\project\vs2019\TensorRt_catdog\Cat_dog\main.cpp(151,41): warning C4305: “初始化”: 从“double”到“float”截断
+D:\wcp\project\vs2019\TensorRt_catdog\Cat_dog\main.cpp(189,23): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 545 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Cat_dog.vcxproj -> D:\wcp\project\vs2019\TensorRt_catdog\Cat_dog\x64\Release\Cat_dog.exe

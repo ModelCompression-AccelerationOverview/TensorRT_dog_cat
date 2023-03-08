@@ -1,0 +1,1 @@
+D:\wcp\project\vs2019\TensorRt_catdog\Cat_dog\x64\Release\Cat_dog.exe
