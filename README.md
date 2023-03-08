@@ -5,9 +5,7 @@
 
 > VS2019、TensorRT-8.5.1.7、Opencv440
 
-环境配置：
-
-[小弟的博客]: https://blog.csdn.net/caip12999203000/article/details/129412394
+环境配置：（小弟的博客） https://blog.csdn.net/caip12999203000/article/details/129412394
 
 > **下载模型：**（将下载的模型文件直接放在项目目录下面）
 >
@@ -15,9 +13,9 @@
 
 ## （2）结果展示
 
-![dog](E:\O\Github\TensorRT_dog_cat\dog.jpg)
+![dog](.\dog.jpg)
 
-![result_show](E:\O\Github\TensorRT_dog_cat\result_show.jpg)
+![result_show](.\result_show.jpg)
 
 ## (3) 性能对比（推理时间）
 
